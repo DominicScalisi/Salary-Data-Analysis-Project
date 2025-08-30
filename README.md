@@ -1,13 +1,11 @@
 # Salary-Data-Analysis-Portfolio-Project
-Project Status: Completed
+Project Status: In Progress
 
 Project Objective
 
 This project explores the relationship between professional and demographic factors—such as age, experience, gender, education, and job title—on salary. The dataset used comes from Kaggle, with approximately 6,700 entries. The goal is to uncover valuable insights for both professionals and employers to better understand how these factors influence salaries. The analysis was performed using PostgreSQL for data manipulation and Tableau for data visualization.
 
 Original Dataset: Kaggle Salary Data
-
-SQL Queries for Data Cleaning & Analysis: SQL Queries
 
 Interactive Tableau Dashboard: Tableau Dashboard
 
