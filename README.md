@@ -37,7 +37,17 @@ Tableau: Used for creating an interactive and visual dashboard for data explorat
 
 Insights
 
-1. Experience and Salary
+1. Job Titles
+
+The top ten job titles in the dataset is:
+
+<img width="459" height="429" alt="Screenshot 2025-08-30 124837" src="https://github.com/user-attachments/assets/c1b1ad76-c5bd-45b4-9594-d857e2c6d60c" />
+
+There is 191 distinct job titles in the dataset.
+
+Job titles like Software Engineer and Data Scientist had multiple entries with 518 and 453, respectively.
+
+2. Experience and Salary
 
 Years of experience had a significant impact on salary. 
 
@@ -47,8 +57,7 @@ After 10 years, average salary increased by 141.4%. From $63,409 to $153,000 dol
 
 <img width="268" height="157" alt="image" src="https://github.com/user-attachments/assets/892fd761-9dea-43e6-8528-a3dd5dbb73c4" />
 
-
-2. Education Level
+3. Education Level
 
 Individuals with a degree tend to start with a higher salary. 
 
@@ -62,8 +71,7 @@ A Pivot Table was created to get a detailed view of how education level and year
 
 <img width="295" height="100" alt="image" src="https://github.com/user-attachments/assets/bc7b000b-9703-4944-9e3f-ec5322a1e29f" />
 
-
-3. Gender and Salary
+4. Gender and Salary
 
 In the dataset, there was 3,671 males, 3,013 females, and 14 others. With only 14 entries for others, this gender group was not included in the analysis.
 
@@ -71,14 +79,13 @@ A gender pay gap was observed. On average, females earned $107,889, while males 
 
 <img width="392" height="83" alt="image" src="https://github.com/user-attachments/assets/c7b4d824-8a31-46fa-8281-76c03e717308" />
 
-
 In a Data Analyst role, where both males and females had comparable years of experience-11 years for males and 13 years for females-males earned $195,000, while females earned $150,000.
 
 In roles like Sales Director, the gap was even more noticeable because of experience-the male had 22 years and the female had 8 years-with males earning $180,000 compared to $90,000 for females.
 
 In some cases, females earned more. For example, a female Senior Data Scientist with 16 years of experience earned $200,000, while a male with 21 years of experience earned $190,000.
 
-4. Age and Salary
+5. Age and Salary
 
 The age range within the dataset was from 21 to 62 years old.
 
