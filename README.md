@@ -47,6 +47,7 @@ After 10 years, average salary increased by 141.4%. From $63,409 to $153,000 dol
 
 <img width="268" height="157" alt="image" src="https://github.com/user-attachments/assets/892fd761-9dea-43e6-8528-a3dd5dbb73c4" />
 
+
 2. Education Level
 
 Individuals with a degree tend to start with a higher salary. 
@@ -61,6 +62,7 @@ A Pivot Table was created to get a detailed view of how education level and year
 
 <img width="295" height="100" alt="image" src="https://github.com/user-attachments/assets/bc7b000b-9703-4944-9e3f-ec5322a1e29f" />
 
+
 3. Gender and Salary
 
 In the dataset, there was 3,671 males, 3,013 females, and 14 others. With only 14 entries for others, this gender group was not included in the analysis.
@@ -68,6 +70,7 @@ In the dataset, there was 3,671 males, 3,013 females, and 14 others. With only 1
 A gender pay gap was observed. On average, females earned $107,889, while males earned $121,395. The median earnings did not stray from the average with females earning $105,000, while males earned $120,000. However, the gap varied significantly by job title and years of experience.
 
 <img width="392" height="83" alt="image" src="https://github.com/user-attachments/assets/c7b4d824-8a31-46fa-8281-76c03e717308" />
+
 
 In a Data Analyst role, where both males and females had comparable years of experience-11 years for males and 13 years for females-males earned $195,000, while females earned $150,000.
 
